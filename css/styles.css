@@ -1,9 +1,23 @@
+/* carousel img style */
+
 .carousel-opacity {
   opacity: 0.5;
 }
+
+/* icon style */
+
 .fa-brands {
   color: white;
 }
+
+/* footer background */
+
 .bg-footer {
   background: #161616;
+}
+
+/* register background */
+
+.bg-register {
+  background: #289bde;
 }
